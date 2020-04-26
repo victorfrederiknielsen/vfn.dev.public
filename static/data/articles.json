@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "source": {
+      "id": null,
+      "name": "Cointelegraph.com"
+    },
+    "author": "Cointelegraph By Benjamin Pirus",
+    "title": "Cryptocurrency News From Japan: April 19-25 in Review",
+    "description": "FXCoin announced XRP remittance testing, one company began its security token initiative, and more headlined news from Japan this past week.",
+    "url": "https://cointelegraph.com/news/cryptocurrency-news-from-japan-april-19-25-in-review",
+    "urlToImage": null,
+    "publishedAt": "2020-04-25T20:00:52Z",
+    "content": "This weeks headlines from Japan included Mitsui &amp; Co. Digital Asset Management kicking off its security token project, Coincheck's fiat exchange listing seven altcoins, FXCoin unveiling physical crypto trading and XRP remittance testing plans, and GMO Coi… [+1895 chars]"
+  },
+  {
+    "id": 2,
+    "source": {
+      "id": null,
+      "name": "Cyberciti.biz"
+    },
+    "author": "Vivek Gite",
+    "title": "Ubuntu Linux view status of my network interfaces card",
+    "description": "{Updated} Wondering how to view the status of your network interface under Ubuntu Linux and make sure network connectivity exists? Here are several ways to check the status of your network interfaces(NIC)/card.The post Ubuntu Linux view status of my network i…",
+    "url": "https://www.cyberciti.biz/tips/ubuntu-linux-view-the-status-of-my-network-interfacescard.html",
+    "urlToImage": null,
+    "publishedAt": "2020-04-25T19:11:00Z",
+    "content": "Wondering how to view the status of your network interface under Ubuntu Linux and make sure network connectivity exists? Here are several ways to check the status of your network interfaces(NIC)/card.\r\nAdblock detected \r\nMy website is made possible by display… [+9165 chars]"
+  },
+  {
+    "id": 3,
+    "source": {
+      "id": null,
+      "name": "Bitcoinist.com"
+    },
+    "author": "Cole Petersen",
+    "title": "Ethereum Showing Signs of Tiredness as Analysts Expect Underperformance",
+    "description": "Ethereum is in the process of surmounting the key $200 resistance level as its bullishness grows The cryptocurrency’s rebound from its March lows has been intense, although analysts are noting that a strong pullback could be in the cards This comes as traders…",
+    "url": "https://bitcoinist.com/ethereum-showing-signs-of-tiredness-as-analysts-expect-underperformance/",
+    "urlToImage": null,
+    "publishedAt": "2020-04-25T19:00:11Z",
+    "content": "<ul><li>Ethereum is in the process of surmounting the key $200 resistance level as its bullishness grows</li><li>The cryptocurrencys rebound from its March lows has been intense, although analysts are noting that a strong pullback could be in the cards</li><l… [+2298 chars]"
+  },
+  {
+    "id": 4,
+    "source": {
+      "id": null,
+      "name": "Stackoverflow.com"
+    },
+    "author": "Stack Overflow",
+    "title": "I'm trying to use data pulled from CoinMarketCap API, I can't access all the information from the dictionary",
+    "description": "It looks like the information is a List with embedded dictionary. I'm a beginner and don't fully understand how to pull the information from lists/dictionaries.\nEXP:\n\n'data': [{'id': 1, 'name': 'Bitcoin', 'symbol': 'BTC', 'slug': 'bitcoin', 'num_market_pairs'…",
+    "url": "https://stackoverflow.com/questions/61430735/im-trying-to-use-data-pulled-from-coinmarketcap-api-i-cant-access-all-the-inf",
+    "urlToImage": null,
+    "publishedAt": "2020-04-25T18:53:34Z",
+    "content": "It looks like the information is a List with embedded dictionary. I'm a beginner and don't fully understand how to pull the information from lists/dictionaries.EXP:\r\n'data': [{\r\n 'id': 1,\r\n 'name': 'Bitcoin',\r\n 'symbol': 'BTC',\r\n 'slug': 'bitcoin',\r\n 'num_mar… [+1309 chars]"
+  },
+  {
+    "id": 5,
+    "source": {
+      "id": null,
+      "name": "Coindesk.com"
+    },
+    "author": "David Pan",
+    "title": "Bitcoin Miner Maker Ebang Files for a $100M US IPO",
+    "description": "Ebang International Holdings, one of the leading makers of bitcoin mining equipment, is taking another stab at going public, this time in the U.S.",
+    "url": "https://www.coindesk.com/bitcoin-miner-maker-ebang-files-for-a-100m-us-ipo",
+    "urlToImage": null,
+    "publishedAt": "2020-04-25T18:51:10Z",
+    "content": "Ebang International Holdings, one of the leading manufacturers of bitcoin mining equipment, is taking another stab at going public, this time farther from home and with a smaller fundraising target.\r\nThe Hangzhou, China-based firm aims to raise up to $100 mil… [+3612 chars]"
+  }
+]
