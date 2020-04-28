@@ -1,9 +1,7 @@
 <template>
-  <v-app>
-    <v-container>
-      <Header />
-      <nuxt />
-    </v-container>
+  <v-app :style="{ background: $vuetify.theme.themes[theme].background }">
+    <Header />
+    <nuxt />
   </v-app>
 </template>
 
@@ -13,6 +11,17 @@ import Header from '~/components/header/Header'
 export default {
   components: {
     Header
+  },
+  computed: {
+    theme() {
+      return this.$vuetify.theme.dark ? 'dark' : 'light'
+    }
   }
 }
 </script>
+
+<style>
+.v-application {
+  font-family: 'Roboto mono', monospace;
+}
+</style>

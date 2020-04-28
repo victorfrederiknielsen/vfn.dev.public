@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "title": "Making this application: Getting falimiar with Vue and Nuxt.js",
+    "bannerUrl": "https://i.imgur.com/FNCzXbi.png",
+    "darkBanner": false,
+    "author": {
+      "id": 1,
+      "name": "Victor Nielsen",
+      "image": ""
+    },
+    "tags": [
+      {
+        "id": 1,
+        "name": "Vue.js"
+      },
+      {
+        "id": 2,
+        "name": "Nuxt.js"
+      },
+      {
+        "id": 3,
+        "name": "Vuetify"
+      },
+      {
+        "id": 4,
+        "name": "JavaScript"
+      }
+    ],
+    "sections": [
+      {
+        "id": 1,
+        "type": "paragraph",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam, risus et mattis commodo, arcu neque pharetra erat, quis consectetur augue orci eget quam. Integer eu laoreet augue."
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "content": "Nullam in gravida nisi. Vivamus mollis fringilla accumsan. Curabitur eget sapien vel ligula lacinia sodales nec vel nibh."
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "content": "Suspendisse potenti. Curabitur vel convallis sem, nec dictum elit. Vivamus eu ex ac sapien porttitor pellentesque malesuada vitae ex. "
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      },
+      {
+        "id": 5,
+        "type": "h3",
+        "content": "Suspendisse blandit consequat"
+      },
+      {
+        "id": 6,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      },
+      {
+        "id": 7,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      }
+    ],
+    "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam, risus et mattis commodo, arcu neque pharetra erat, quis consectetur augue orci eget quam. Integer eu laoreet augue. "
+  },
+  {
+    "id": 2,
+    "title": "Making this application: Getting falimiar with Vue and Nuxt.js",
+    "darkBanner": false,
+    "bannerUrl": "https://i.imgur.com/L7h0HSW.jpg",
+    "author": {
+      "id": 1,
+      "name": "Victor Nielsen",
+      "image": ""
+    },
+    "tags": [
+      {
+        "id": 1,
+        "name": "Vue.js"
+      },
+      {
+        "id": 2,
+        "name": "Nuxt.js"
+      },
+      {
+        "id": 3,
+        "name": "Vuetify"
+      },
+      {
+        "id": 4,
+        "name": "JavaScript"
+      }
+    ],
+    "sections": [
+      {
+        "id": 1,
+        "type": "paragraph",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam, risus et mattis commodo, arcu neque pharetra erat, quis consectetur augue orci eget quam. Integer eu laoreet augue. "
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "content": "Nullam in gravida nisi. Vivamus mollis fringilla accumsan. Curabitur eget sapien vel ligula lacinia sodales nec vel nibh."
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "content": "Suspendisse potenti. Curabitur vel convallis sem, nec dictum elit. Vivamus eu ex ac sapien porttitor pellentesque malesuada vitae ex. "
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      },
+      {
+        "id": 5,
+        "type": "h3",
+        "content": "Suspendisse blandit consequat"
+      },
+      {
+        "id": 6,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      },
+      {
+        "id": 7,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      }
+    ],
+    "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam, risus et mattis commodo, arcu neque pharetra erat, quis consectetur augue orci eget quam. Integer eu laoreet augue. "
+  },
+  {
+    "id": 3,
+    "title": "Making this application: Getting falimiar with Vue and Nuxt.js",
+    "bannerUrl": "https://i.imgur.com/MmIoswR.jpg",
+    "darkBanner": true,
+    "author": {
+      "id": 1,
+      "name": "Victor Nielsen",
+      "image": ""
+    },
+    "tags": [
+      {
+        "id": 1,
+        "name": "Vue.js"
+      },
+      {
+        "id": 2,
+        "name": "Nuxt.js"
+      },
+      {
+        "id": 3,
+        "name": "Vuetify"
+      },
+      {
+        "id": 4,
+        "name": "JavaScript"
+      }
+    ],
+    "sections": [
+      {
+        "id": 1,
+        "type": "paragraph",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam, risus et mattis commodo, arcu neque pharetra erat, quis consectetur augue orci eget quam. Integer eu laoreet augue. "
+      },
+      {
+        "id": 2,
+        "type": "paragraph",
+        "content": "Nullam in gravida nisi. Vivamus mollis fringilla accumsan. Curabitur eget sapien vel ligula lacinia sodales nec vel nibh."
+      },
+      {
+        "id": 3,
+        "type": "paragraph",
+        "content": "Suspendisse potenti. Curabitur vel convallis sem, nec dictum elit. Vivamus eu ex ac sapien porttitor pellentesque malesuada vitae ex. "
+      },
+      {
+        "id": 4,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      },
+      {
+        "id": 5,
+        "type": "h3",
+        "content": "Suspendisse blandit consequat"
+      },
+      {
+        "id": 6,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      },
+      {
+        "id": 7,
+        "type": "paragraph",
+        "content": "Nullam eget eros eget augue vulputate laoreet id ut mi. Nunc mollis dapibus ex, at sodales mi rutrum ultrices. Nullam mattis at lorem vitae blandit."
+      }
+    ],
+    "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi aliquam, risus et mattis commodo, arcu neque pharetra erat, quis consectetur augue orci eget quam. Integer eu laoreet augue. "
+  }
+]

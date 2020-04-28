@@ -1,6 +1,8 @@
 <template>
   <div>
-    <ArticleItem v-for="article in list" :key="article.id" :article="article" />
+    <v-container v-for="(article, index) in list" :key="article.id">
+      <ArticleItem :article="article" :index="index" />
+    </v-container>
   </div>
 </template>
 
@@ -22,4 +24,4 @@ export default {
 }
 </script>
 
-<style></style>
+<style scoped></style>

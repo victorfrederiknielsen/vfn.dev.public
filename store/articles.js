@@ -9,13 +9,13 @@ export const state = () => ({
 export const actions = {
   async getList({ commit }) {
     try {
-      const response = await get('/data/articles.json')
+      const response = await get('/data/articles_new.json')
       commit('setList', response.data)
     } catch (error) {}
   },
   async getArticle({ commit }, id) {
     try {
-      const response = await get('/data/articles.json')
+      const response = await get('/data/articles_new.json')
       const articles = response.data
       const article = articles.find(a => a.id === id)
 

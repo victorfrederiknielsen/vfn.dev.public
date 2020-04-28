@@ -1,7 +1,7 @@
 <template>
   <div>
-    <nuxt-link tag="h1" to="/" class="font-weight-black">
-      VFN.DEV
+    <nuxt-link tag="h1" to="/" class="font-weight-black primary--text">
+      VFN//DEV
     </nuxt-link>
   </div>
 </template>

@@ -1,12 +1,14 @@
 <template>
-  <v-row class="justify-space-between align-content-center my-6">
-    <v-col>
-      <Logo />
-    </v-col>
-    <v-col>
-      <Menu />
-    </v-col>
-  </v-row>
+  <v-container>
+    <v-row class="justify-space-between align-content-center my-6">
+      <v-col>
+        <Logo />
+      </v-col>
+      <v-col>
+        <Menu />
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <script>
