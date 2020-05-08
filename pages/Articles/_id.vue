@@ -40,7 +40,7 @@ import ArticleTags from '~/components/article/ArticleTags'
 export default {
   name: 'Article',
   created() {
-    const id = parseInt(this.$route.params.id)
+    const id = this.$route.params.id
     this.$store.dispatch('articles/getArticle', id)
   },
   computed: {

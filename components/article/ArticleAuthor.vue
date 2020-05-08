@@ -13,9 +13,7 @@
 
     <v-tooltip top>
       <template v-slot:activator="{ on }">
-        <p v-on="on" class="font-weight-black ms-1 caption primary--text">
-          VFN//DEV
-        </p>
+        <p v-on="on" class="font-weight-black ms-1 caption primary--text">VFN//DEV</p>
       </template>
       <p>VFN//DEV</p>
     </v-tooltip>

@@ -4,17 +4,12 @@
       cols="12"
       md="7"
       :order-md="index % 2 === 0 ? 1 : 2"
-      :to="article.id.toString()"
+      :to="article.ID"
       append
       :src="article.bannerUrl"
       height="300"
     >
-      <nuxt-link
-        tag="div"
-        :to="article.id.toString()"
-        append
-        class="banner-link"
-      >
+      <nuxt-link tag="div" :to="article.ID" append class="banner-link">
         <v-parallax
           :src="article.bannerUrl"
           height="300"
