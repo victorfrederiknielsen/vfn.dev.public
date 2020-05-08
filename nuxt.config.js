@@ -91,5 +91,9 @@ export default {
      ** You can extend webpack config here
      */
     extend(config, ctx) {}
+  },
+  env: {
+    BASE_URL: process.env.BASE_URL || 'http://localhost:3000',
+    STAGE: process.env.STAGE || 'dev'
   }
 }

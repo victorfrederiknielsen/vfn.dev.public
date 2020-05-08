@@ -9,13 +9,17 @@ export const state = () => ({
 export const actions = {
   async getList({ commit }) {
     try {
-      const response = await get('http://localhost:3000/dev/list')
+      const response = await get(
+        `${process.env.BASE_URL}/${process.env.STAGE}/list`
+      )
       commit('setList', response.data.Items)
     } catch (error) {}
   },
   async getArticle({ commit }, id) {
     try {
-      const { data } = await get(`http://localhost:3000/dev/get/${id}`)
+      const { data } = await get(
+        `${process.env.BASE_URL}/${process.env.STAGE}/get/${id}`
+      )
 
       commit('setAricle', data)
     } catch (error) {}
