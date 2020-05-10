@@ -5,7 +5,7 @@
   "author": "Victor Nielsen",
   "private": true,
   "scripts": {
-    "dev": "nuxt --port 1994",
+    "dev": "nuxt --port 1995",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
