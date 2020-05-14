@@ -45,5 +45,5 @@ jobs:
         with:
           aws_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY}}
-          aws_bucket: vfn.dev-prod
+          aws_bucket: vfn.dev-dev
           source_dir: website

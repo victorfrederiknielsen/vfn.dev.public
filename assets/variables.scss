@@ -5,4 +5,16 @@
 $body-font-family: 'Roboto mono', monospace;
 $border-radius-root: 8px;
 
+$material-light: (
+  'text': (
+    'primary': #223843
+  )
+);
+
+$material-dark: (
+  'text': (
+    'primary': white
+  )
+);
+
 @import '~vuetify/src/styles/styles.sass';

@@ -1,9 +1,9 @@
 provider "aws" {
-  region = var.region
+  region = local.workspace.region
 }
 
 resource "aws_s3_bucket" "b" {
-  bucket = "vfn.dev-${var.env}"
+  bucket = "vfn.dev-${local.workspace.env}"
   acl    = "public-read"
 
   website {

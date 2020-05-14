@@ -3,9 +3,12 @@
     <nuxt-link tag="li" to="/articles" class="ms-3">Articles</nuxt-link>
     <nuxt-link tag="li" to="/#" class="ms-3">Projects</nuxt-link>
     <nuxt-link tag="li" to="/#" class="ms-3">About</nuxt-link>
-    <v-btn @click="$vuetify.theme.dark = !$vuetify.theme.dark"
-      >Toggle Theme</v-btn
-    >
+
+    <v-switch
+      v-model="$vuetify.theme.dark"
+      class="ma-2"
+      label="Dark?"
+    ></v-switch>
   </ul>
 </template>
 
