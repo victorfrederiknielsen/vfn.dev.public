@@ -25,13 +25,13 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
       - run: npm run generate
+        env:
+          ARTICLES_BASE_URL: ${{ secrets.ARTICLES_BASE_URL }}
       - name: Upload artifact
         uses: actions/upload-artifact@v1
         with:
           name: website
           path: dist
-        env:
-          ARTICLES_BASE_URL: ${{ secrets.ARTICLES_BASE_URL }}
 
   upload:
     runs-on: ubuntu-latest
