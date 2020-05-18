@@ -30,6 +30,8 @@ jobs:
         with:
           name: website
           path: dist
+        env:
+          ARTICLES_BASE_URL: ${{ secrets.ARTICLES_BASE_URL }}
 
   upload:
     runs-on: ubuntu-latest
