@@ -93,7 +93,7 @@ export default {
     extend(config, ctx) {}
   },
   env: {
-    ARTICLES_BASE_URL: process.env.BASE_URL || 'http://localhost:3000',
+    ARTICLES_BASE_URL: process.env.ARTICLES_BASE_URL || 'http://localhost:3000',
     STAGE: process.env.STAGE || 'dev'
   }
 }
